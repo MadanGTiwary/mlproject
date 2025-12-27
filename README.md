@@ -53,13 +53,16 @@ This section summarizes your model’s evaluation results on the test set. Repla
 ## App Screenshots
 
 **Homepage:**
-`![Homepage Screenshot](path/to/homepage.png)`
+![Homepage](media/homepage.png)
 
 **Prediction Form:**
-`![Input Form Screenshot](path/to/inputform.png)`
+![Prediction Form](media/input.png)
 
 **Prediction Result:**
-`![Result Screenshot](path/to/result.png)`
+![Prediction Result](media/prediction.png)
+
+**Analysis:**
+![Analysis](media/interpretation.png)
 
 ---
 
