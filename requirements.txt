@@ -6,5 +6,7 @@ scikit-learn
 catboost
 dill
 Flask
+streamlit
+plotly
 -e .
 # comment down -e . during dev. after finalisation, put -e .
